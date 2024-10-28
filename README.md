@@ -1,11 +1,3 @@
-# LayerZero Aptos
-
-LayerZero Aptos endpoint.
-
-## Development Guide
-
-- [Building on LayerZero](apps/README.md)
-
 ## Setup
 
 ```shell
