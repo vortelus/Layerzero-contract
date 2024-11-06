@@ -31,3 +31,4 @@ cd sdk
 npx jest ./tests/omniCounter.test.ts
 npx jest ./tests/bridge.test.ts
 ```
+
